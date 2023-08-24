@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino Piling", "Domino Piling.csproj", "{AC6EEFC1-54E8-43B6-9DA9-6831010FD043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6EEFC1-54E8-43B6-9DA9-6831010FD043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6EEFC1-54E8-43B6-9DA9-6831010FD043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6EEFC1-54E8-43B6-9DA9-6831010FD043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6EEFC1-54E8-43B6-9DA9-6831010FD043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4439CEDA-33EA-427C-842B-D6AFDC34A159}
+	EndGlobalSection
+EndGlobal
